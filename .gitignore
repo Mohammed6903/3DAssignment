@@ -1,0 +1,9 @@
+*.ply
+*.glb
+/.venv
+/transformers
+/point-e
+/point_e_model_cache
+/shap-e
+/shap_e_model_cache
+*.env
