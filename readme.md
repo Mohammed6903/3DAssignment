@@ -1,4 +1,3 @@
-Collecting workspace informationFiltering to most relevant information```markdown
 # Point-E Installation and Setup Guide
 
 This guide provides step-by-step instructions to set up and run the code for generating 3d model from text.
