@@ -123,6 +123,3 @@ If you encounter any issues, ensure all dependencies are installed correctly. Yo
 ```bash
 pip install -r requirements.txt
 ```
-
-For further assistance, refer to the [Point-E GitHub repository](https://github.com/openai/point-e).
-```
